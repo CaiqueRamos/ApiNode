@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CaiqueRamos/ApiNode/issues"
   },
-  "homepage": "https://github.com/CaiqueRamos/ApiNode#readme"
+  "homepage": "https://github.com/CaiqueRamos/ApiNode#readme",
+  "dependencies": {
+    "standard": "^16.0.4"
+  }
 }
